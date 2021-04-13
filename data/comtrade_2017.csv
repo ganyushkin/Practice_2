@@ -1,0 +1,140 @@
+"Classification","Year","Period","Period.Desc.","Aggregate.Level","Is.Leaf.Code","Trade.Flow.Code","Trade.Flow","Reporter.Code","Reporter","Reporter.ISO","Partner.Code","Partner","Partner.ISO","X2nd.Partner.Code","X2nd.Partner","X2nd.Partner.ISO","Customs.Proc..Code","Customs","Mode.of.Transport.Code","Mode.of.Transport","Commodity.Code","Commodity","Qty.Unit.Code","Qty.Unit","Qty","Alt.Qty.Unit.Code","Alt.Qty.Unit","Alt.Qty","Netweight..kg.","Gross.weight..kg.","Trade.Value..US..","CIF.Trade.Value..US..","FOB.Trade.Value..US..","Flag"
+"HS",2017,201701,"January 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,7433,NA,286370,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,698,NA,261891,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1350,NA,343214,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,7454,NA,208713,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,7781,NA,264071,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,6582,NA,301412,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,4621,NA,229050,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2875,NA,295498,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,9175,NA,329128,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,16931,NA,328840,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,5371,NA,256603,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",31,"Azerbaijan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,12320,NA,369142,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,16208,NA,64938,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,35340,NA,129668,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,22756,NA,90028,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,31518,NA,107489,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,24830,NA,99988,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,24535,NA,93124,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,42432,NA,149116,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,26342,NA,110967,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,35711,NA,147713,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,49563,NA,194427,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,48088,NA,153700,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,28233,NA,97000,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2801,NA,22858,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2496,NA,20981,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2768,NA,23863,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2701,NA,23662,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2984,NA,27606,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2455,NA,21838,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2423,NA,21483,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,23251,NA,124035,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2704,NA,22578,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2633,NA,22628,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,313135,NA,705100,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,410783,NA,1065800,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,426321,NA,1110500,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,330967,NA,893700,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,371584,NA,1089800,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,360196,NA,1159500,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,334652,NA,922700,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,338872,NA,977300,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,410198,NA,1033500,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,359050,NA,1104500,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,373318,NA,1071700,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",112,"Belarus",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,406316,NA,1183400,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",251,"France",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,26,NA,96,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",251,"France",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,20,NA,88,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,50768,NA,121427,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,56898,NA,130442,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,46508,NA,111311,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,47831,NA,101295,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,64576,NA,179871,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,56366,NA,137738,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,54161,NA,138456,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,50600,NA,116489,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,67275,NA,187859,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,64009,NA,191421,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,49573,NA,137613,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,43889,NA,122923,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2951,NA,23366,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,420,NA,1375,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3246,NA,23447,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3218,NA,25348,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3241,NA,25499,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2984,NA,27606,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2972,NA,24283,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,318,NA,1251,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2599,NA,22204,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2443,NA,20803,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3152,NA,24521,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3758,NA,27408,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,858154,NA,2285844,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,719807,NA,2148198,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,882835,NA,2852888,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,879656,NA,2828601,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,823010,NA,2873224,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,881859,NA,2842310,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,857455,NA,2678945,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,950020,NA,2995442,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,897119,NA,2809364,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1141986,NA,3792654,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1222248,NA,3848295,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1224405,NA,3490213,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,962,NA,4225,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,425,NA,3065,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,491,NA,3032,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,323,NA,1215,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,628,NA,3313,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,274,NA,1408,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,389,NA,1920,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,336,NA,1959,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,12244,NA,36648,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,76220,NA,179184,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,9781,NA,42936,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,15355,NA,64008,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,31131,NA,185712,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,135886,NA,373341,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,8848,NA,46059,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,26265,NA,107863,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,22852,NA,87108,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,27382,NA,98156,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,27511,NA,101371,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",417,"Kyrgyzstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,21604,NA,84210,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",440,"Lithuania",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,20808,NA,103249,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",480,"Mauritius",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1287,NA,18199,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,748,NA,6024,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,4796,NA,12192,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,45346,NA,220690,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,5261,NA,13562,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2036,NA,12556,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,25350,NA,109848,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,15983,NA,60582,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,13111,NA,48773,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,4567,NA,15172,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,41590,NA,159333,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,6382,NA,22793,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",496,"Mongolia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,17236,NA,85359,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,10778,NA,44700,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,10405,NA,41429,NA,NA,0
+"HS",2017,201711,"November 2017",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,12624,NA,49684,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",554,"New Zealand",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,197,NA,3614,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",554,"New Zealand",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,149,NA,3521,NA,NA,0
+"HS",2017,201706,"June 2017",4,0,1,"Imports",688,"Serbia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3602,NA,13404,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",757,"Switzerland",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,6,NA,32,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",784,"United Arab Emirates",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,232,NA,1455,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",784,"United Arab Emirates",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,251,NA,1543,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",784,"United Arab Emirates",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,30,NA,132,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",784,"United Arab Emirates",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,50,NA,211,NA,NA,0
+"HS",2017,201701,"January 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1429,NA,9553,NA,NA,0
+"HS",2017,201702,"February 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1051,NA,6984,NA,NA,0
+"HS",2017,201703,"March 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1405,NA,9813,NA,NA,0
+"HS",2017,201704,"April 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1034,NA,3923,NA,NA,0
+"HS",2017,201705,"May 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,9896,NA,44924,NA,NA,0
+"HS",2017,201707,"July 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,7560,NA,43459,NA,NA,0
+"HS",2017,201708,"August 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,2202,NA,15153,NA,NA,0
+"HS",2017,201709,"September 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,500,NA,6969,NA,NA,0
+"HS",2017,201710,"October 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3492,NA,14089,NA,NA,0
+"HS",2017,201712,"December 2017",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1501,NA,11387,NA,NA,0

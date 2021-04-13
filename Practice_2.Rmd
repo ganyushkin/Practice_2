@@ -1,0 +1,199 @@
+---
+title: "Лабораторная Работа №2"
+author: "Ганюшкин Александр"
+date: "13 04 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Вариант -- 5
+
+# Задание:
+
+Первый график постройте на данных по импорту продовольственных товаров в РФ в графической  системе ggplot2.  Данные  за  период  с  января  2010  по  декабрь  2020  гг. необходимо загрузить из базы данных международной торговли UN COMTRADE, как было показано  в  практиках  1-2.  Нас  интересует  эффект  от  введения  продовольственных санкций.
+
+Второй график постройте на данных, собранных в упражнении No1, в графической системе lattice.  Тип  графика  может  быть  любым,  при  этом  обязательно  должна присутствовать разбивка по категориям (например: годы, производители товара, жанры фильмов).
+
+# Задание из варианта:
+
+Товар: сыр и творог, код 0406. График: плотности массы поставок по годам: 2013, 2014, 2019 и 2020, каждый год расположить на отдельной фасетке. Цветом показать периоды с января по август и с сентября по декабрь. Пропуски заменить на средние.
+
+```{r, warning=F, message=F}
+# Библиотека для работы с JSON
+library('rjson')
+
+# Адрес справочника по странам UN COMTRADE
+fileURL <- "http://comtrade.un.org/data/cache/partnerAreas.json"
+
+#Загрузка данных из формата JSON
+reporters <- fromJSON(file = fileURL)
+is.list(reporters)
+
+# Соединяем элементы списка построчно
+reporters <- t(sapply(reporters$results, rbind))
+dim(reporters)
+
+# Превращаем в DataFrame
+reporters <- as.data.frame(reporters)
+head(reporters)
+
+# Код Россиийской Федерации
+names(reporters) <- c('State.Code', 'State.Name.En')
+reporters[reporters$State.Name.En == "Russian Federation", ]$State.Code
+
+# Код России: 643, воспользуемся им в дальнейшем
+
+# функция, реализующая API (источник: UN COMTRADE)
+source("https://raw.githubusercontent.com/aksyuk/R-data/master/API/comtrade_API.R")
+
+# Выгружаем данные за каждый год
+# Код товара: 0406
+for (i in 2010:2020){
+  Sys.sleep(5)
+  s1 <- get.Comtrade(r = 'all', p = 643,
+                     ps = as.character(i), freq = "M",
+                     rg = '1', cc = '0406',
+                     fmt = 'csv')
+  # Имя файла для сохранения
+  file.name <- paste('./data/comtrade_', i, '.csv', sep = '')
+  # Запись данных в файл
+  write.csv(s1$data, file.name, row.names = F)
+  print(paste("Данные за", i, "год загружены в файл",file.name, "!"))
+  write(paste('Файл',
+              paste('comtrade_', i, '.csv', sep = ''),
+              'загржен', Sys.time()), file = './data/download.log', append=T)
+}
+```
+
+```{r, warning=F, message=F}
+library('stringr')
+library('ggplot2')
+library('gridExtra')
+library('data.table')
+
+df <- data.frame()
+for (i in 2010:2020){
+  # Считываем данные из .csv файла
+  df.temp <- read.csv(paste('./data/comtrade_', i, '.csv', sep=''), header = T, sep=',')
+  avg <- mean(df.temp$Netweight..kg.[!is.na(df.temp$Netweight..kg.)])
+  df.temp[is.na(df.temp)] <- avg
+  # Заполняем основной дата фрейм
+  df <- rbind(df, df.temp)
+}
+df <- df[, c(2, 4, 10, 30)]
+
+df1 <- data.frame(Year = numeric(), Period.Desc. = character(), Reporter = character(), Netweight..kg. = numeric(), Period = character())
+df2 <- data.frame(Year = numeric(), Period.Desc. = character(), Reporter = character(), Netweight..kg. = numeric(), Period = character())
+
+for (year in c(2013, 2014, 2019, 2020)){
+  for (m in month.name[1:6]){
+    df1 <- rbind(df1, cbind(df[df$Year == year & str_detect(df$Period.Desc., m), ], data.frame(Period = 'янв-авг')))
+  }
+  for (m in month.name[7:12]){
+    df2 <- rbind(df2, cbind(df[df$Year == year & str_detect(df$Period.Desc., m), ], data.frame(Period = 'сен-дек')))
+  }
+}
+df <- rbind(df1, df2)
+df
+
+png('density_ggplot.png', width = 1000, height= 1000)
+ggplot(df, aes(y = Netweight..kg., group = Period, color = Period)) +
+  geom_density() + facet_grid(. ~ Year) +
+  coord_flip() + scale_color_manual(values = c('red', 'blue'),
+                                    name = 'Период') +
+  labs(title = 'График плотности массы поставок по годам',
+       y = 'Масса', x = 'Плотность')
+dev.off()
+```
+
+```{r}
+library('XML')                 # разбор XML-файлов
+library('RCurl')               # работа с HTML-страницами
+library('rjson')               # чтение формата JSON
+library('rvest')               # работа с DOM сайта
+library('dplyr')               # инструменты трансформирования данных
+library('httr')
+library('stringr')
+
+# ссылка на сайт кинопоиска, рейтинг фильмов про зомби
+url <- 'https://www.kinopoisk.ru/lists/editorial/theme_zombie/'
+
+html <- GET(url)
+html <- content(html, 'text')
+
+parsed_html <- htmlParse(html, useInternalNodes = T, encoding = "UTF-8")
+
+# Названия фильмов на русском языке
+name.film <- xpathSApply(parsed_html, '//p[@class="selection-film-item-meta__name"]', xmlValue)
+name.film
+
+# Названия фильмов в оригинале
+original.name.film <- xpathSApply(parsed_html, '//p[@class="selection-film-item-meta__original-name"]', xmlValue)
+original.name.film
+
+# жанр фильмов
+genre.film <- xpathSApply(parsed_html, '//span[@class="selection-film-item-meta__meta-additional-item"]', xmlValue)
+genre.film
+
+# Рейтинг фильмов
+rating.film <- xpathSApply(parsed_html, '//span[@data-tid="59e7b831"]', xmlValue)
+rating.film <- as.numeric(rating.film)
+rating.film
+
+# Количество голосов
+vote.film <- xpathSApply(parsed_html, '//span[@class="rating__count"]', xmlValue)
+# Избавляемся от пробелов
+vote.film <- gsub(pattern = '\\s', replacement = "", x = vote.film)
+vote.film <- as.numeric(vote.film)
+vote.film
+
+# Формируем датафрейм
+df <- data.frame(name = name.film, original_name = original.name.film,
+                 genre = genre.film[c(F, T)], rating = rating.film[c(T, F)], vote = vote.film)
+
+data.dir <- './data'
+
+# Создаем директорию для данных
+if (!file.exists(data.dir)) {
+  dir.create(data.dir)
+}
+
+# Создаём файл с логом загрузок
+log.filename <- './data/download.log'
+if (!file.exists(log.filename)) file.create(log.filename)
+
+# Загружаем данные в .csv файл
+write.csv(df, file = './data/kinopoisk_zombie.csv', row.names = FALSE)
+write(paste('Файл "kinopoisk.csv" записан!', Sys.time()), file = log.filename, append = TRUE)
+```
+
+```{r, warning=F, message=F}
+library('lattice')
+df_movies <- read.csv('./data/kinopoisk_zombie.csv', header = TRUE, sep=',')
+df_movies
+
+# Оставим только один жанр
+genres <- array()
+for (genre in strsplit(as.character(df_movies$genre), ", ")){
+  if (length(genre) == 2){
+    genres <- append(genres, genre[2])
+  } else {
+    genres <- append(genres, genre[1])
+  }
+}
+genres <- genres[2:32]
+
+df_movies <- cbind(df_movies, data.frame(Genres = factor(genres)))
+df_movies
+# График разброса
+png('./lattice.png', width=1000, height=600)
+xyplot(vote ~ rating, data = df_movies, auto.key = list(space = 'right'),
+       groups = Genres,
+       ylab = 'Количество голосов',
+       xlab = 'Рейтинг фильма',
+       main = 'График разброса количества голосов от рейтинга')
+dev.off()
+```

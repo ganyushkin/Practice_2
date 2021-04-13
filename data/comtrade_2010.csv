@@ -1,0 +1,96 @@
+"Classification","Year","Period","Period.Desc.","Aggregate.Level","Is.Leaf.Code","Trade.Flow.Code","Trade.Flow","Reporter.Code","Reporter","Reporter.ISO","Partner.Code","Partner","Partner.ISO","X2nd.Partner.Code","X2nd.Partner","X2nd.Partner.ISO","Customs.Proc..Code","Customs","Mode.of.Transport.Code","Mode.of.Transport","Commodity.Code","Commodity","Qty.Unit.Code","Qty.Unit","Qty","Alt.Qty.Unit.Code","Alt.Qty.Unit","Alt.Qty","Netweight..kg.","Gross.weight..kg.","Trade.Value..US..","CIF.Trade.Value..US..","FOB.Trade.Value..US..","Flag"
+"HS",2010,201001,"January 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,784,NA,2254,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,19102,NA,98328,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,10224,NA,29446,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,20043,NA,103404,NA,NA,0
+"HS",2010,201005,"May 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,7025,NA,28607,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,25427,NA,119224,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,20577,NA,108049,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,9890,NA,43149,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,22400,NA,94444,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,20978,NA,107071,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,14897,NA,54350,NA,NA,0
+"HS",2010,201012,"December 2010",4,0,1,"Imports",51,"Armenia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,23486,NA,93712,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,846,NA,9840,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,184,NA,681,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,8,NA,32,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3313,NA,11636,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,3,NA,75,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,19179,NA,106579,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1824,NA,12147,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",97,"EU-28",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,4,NA,23,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",208,"Denmark",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,77,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",233,"Estonia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,19200,NA,105097,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",246,"Finland",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,800,NA,9618,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",246,"Finland",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,11628,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,11869,NA,41652,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,28270,NA,99165,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,24349,NA,98128,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,21797,NA,79756,NA,NA,0
+"HS",2010,201005,"May 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,26066,NA,103050,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,21439,NA,78446,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,14557,NA,47898,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,16347,NA,61268,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,35255,NA,114105,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,27847,NA,102441,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,34032,NA,117464,NA,NA,0
+"HS",2010,201012,"December 2010",4,0,1,"Imports",268,"Georgia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,24263,NA,85665,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,28,NA,217,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,184,NA,681,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,8,NA,32,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,487,NA,2760,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",276,"Germany",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,4,NA,23,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",376,"Israel",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,31000,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,448068,NA,1280390,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,573676,NA,1799418,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,831254,NA,2833380,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,745083,NA,2519314,NA,NA,0
+"HS",2010,201005,"May 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,682820,NA,2099881,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,620612,NA,1920954,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,693404,NA,2196168,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,658315,NA,2183021,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,939782,NA,3181447,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,857233,NA,3024741,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,862642,NA,2971523,NA,NA,0
+"HS",2010,201012,"December 2010",4,0,1,"Imports",398,"Kazakhstan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1020067,NA,3894208,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,145,NA,641,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,361,NA,1355,NA,NA,0
+"HS",2010,201005,"May 2010",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,200,NA,1613,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,154,NA,700,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",400,"Jordan",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,810,NA,3018,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,19706,NA,65211,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,10710,NA,42593,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,19362,NA,86580,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,9495,NA,40907,NA,NA,0
+"HS",2010,201005,"May 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,8743,NA,40341,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,11812,NA,49825,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,16519,NA,75420,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,14092,NA,64224,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,16271,NA,73839,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,24599,NA,112747,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,11136,NA,54316,NA,NA,0
+"HS",2010,201012,"December 2010",4,0,1,"Imports",498,"Rep. of Moldova",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,15747,NA,75203,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",688,"Serbia",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,1279,NA,37701,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,368175,NA,1083656,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,512639,NA,1743046,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,529973,NA,1836180,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,556002,NA,1948413,NA,NA,0
+"HS",2010,201005,"May 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,531919,NA,1890238,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,454420,NA,1581803,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,635312,NA,2404004,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,699893,NA,2627431,NA,NA,0
+"HS",2010,201009,"September 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,662643,NA,2544555,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,558102,NA,2203700,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,667372,NA,2736505,NA,NA,0
+"HS",2010,201012,"December 2010",4,0,1,"Imports",804,"Ukraine",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,672806,NA,2676484,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",818,"Egypt",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,5732,NA,NA,0
+"HS",2010,201001,"January 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,12151,NA,NA,0
+"HS",2010,201002,"February 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,9688,NA,NA,0
+"HS",2010,201003,"March 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,414,NA,4649,NA,NA,0
+"HS",2010,201004,"April 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,14480,NA,NA,0
+"HS",2010,201006,"June 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,6176,NA,NA,0
+"HS",2010,201007,"July 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,14077,NA,NA,0
+"HS",2010,201008,"August 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,7284,NA,NA,0
+"HS",2010,201010,"October 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,8843,NA,NA,0
+"HS",2010,201011,"November 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,32416,NA,NA,0
+"HS",2010,201012,"December 2010",4,0,1,"Imports",842,"United States of America",NA,643,"Russian Federation",NA,NA,NA,NA,NA,NA,NA,NA,406,"Cheese and curd",NA,NA,NA,NA,NA,NA,NA,NA,3523,NA,NA,0
